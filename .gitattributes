@@ -1,0 +1,13 @@
+* text=auto
+
+*.txt text eol=lf
+# *.gui text eol=lf
+*.yml text eol=lf
+
+.github/        export-ignore
+.vscode/        export-ignore
+notes/          export-ignore
+pictures/       export-ignore
+.gitignore      export-ignore
+.gitattributes  export-ignore
+*.log           export-ignore

@@ -1,0 +1,12 @@
+{
+    "[yaml]": {
+        "files.encoding": "utf8bom"
+    },
+    "[paradox]": {  // make sure you've installed Paradox Highlight extension
+        "files.encoding": "utf8bom",
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false
+    },
+    "files.eol": "\n",
+    "files.autoGuessEncoding": true
+}
