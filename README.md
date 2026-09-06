@@ -31,8 +31,8 @@ Spanish<br>
 Turkish
 
 <p align="center" >
-  <img src="https://i.imgur.com/9bNueDX.png" width="45%" height="250"/>
-  <img src="https://i.imgur.com/MPx3nto.png" width="45%" height="250"/>
+  <img src="https://i.imgur.com/4HP1kzR.png" width="45%" height="250"/>
+  <img src="https://i.imgur.com/4gSpT5o.png" width="45%" height="250"/>
 </p>
 
 ## Finally
