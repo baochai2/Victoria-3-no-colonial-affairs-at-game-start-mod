@@ -4,6 +4,7 @@
   "version" : "",
   "supported_game_version" : "",
   "short_description" : "",
+  "picture": "thumbnail.png",
   "tags" : [],
   "relationships" : [],
   "game_custom_data" : {
