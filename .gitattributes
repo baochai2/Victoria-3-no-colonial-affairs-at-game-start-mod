@@ -4,10 +4,13 @@
 # *.gui text eol=lf
 *.yml text eol=lf
 
-.github/        export-ignore
-.vscode/        export-ignore
-notes/          export-ignore
-pictures/       export-ignore
-.gitignore      export-ignore
-.gitattributes  export-ignore
-*.log           export-ignore
+.github/                    export-ignore
+.vscode/                    export-ignore
+notes/                      export-ignore
+pictures/                   export-ignore
+.gitignore                  export-ignore
+.gitattributes              export-ignore
+*.log                       export-ignore
+Paradox mod desc.md         export-ignore
+Paradox mod short desc.md   export-ignore
+Steam desc.md               export-ignore
