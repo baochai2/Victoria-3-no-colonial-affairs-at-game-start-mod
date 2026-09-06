@@ -1,0 +1,1 @@
+This mod changes the starting colonization laws to No Colonial Affairs. No countries will colonize Africa during the early game.
