@@ -5,7 +5,6 @@
 **No Colonial Affairs At Game Start** is a Victoria 3 mod that changes the starting colonization laws to **No Colonial Affairs**. No countries will colonize Africa during the early game.
 
 ## Affected Countries
-
 Great Britain<br>
 France<br>
 Netherlands<br>
@@ -14,11 +13,9 @@ Portugal<br>
 Dutch East Indies
 
 ## Supported Version
-
 1.9.8
 
 ## Supported Language
-
 Brazilian Portuguese<br>
 English<br>
 French<br>
@@ -37,5 +34,4 @@ Turkish
 </p>
 
 ## Finally
-
 If you encounter a problem, please let me know.

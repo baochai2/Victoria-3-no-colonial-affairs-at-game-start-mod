@@ -33,5 +33,4 @@
 Github: https://github.com/baochai2/Victoria-3-no-colonial-affairs-at-game-start-mod.git
 
 [hr]
-
 [i]If you encounter a problem, please let me know.[/i]
